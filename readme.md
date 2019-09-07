@@ -1,3 +1,3 @@
-#PointCloud_viz
+# PointCloud_viz
 
 This is for visualising PointCloud data using Open3D.
